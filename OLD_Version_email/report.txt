@@ -1,0 +1,21 @@
+RELATÓRIO IMPRESSORA COLORIDA
+==================================================
+
+Lista de uso:
+
+gustavo.gomes                  4
+renan.souza                    2
+==================================================
+
+Infos impressora:
+
+Impressões Totais              20
+Gasto Estimado                 13.20 reais
+==================================================
+
+Infos colaboradores:
+
+Maior Uso                      gustavo.gomes
+Gasto Estimado                 8.80 reais
+==================================================
+
