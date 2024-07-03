@@ -227,7 +227,7 @@ def Relatorio_word(users, paginas, top, planilha):      #Gera um relatório Word
     doc.save('Relatorio.docx')      #Salva o documento como "Relatorio.docx"
     return
 
-
-path = selecionar_arquivo()
-lista1, lista2, planilha = leitor_info(path)
-Relatorio_word(lista1, lista2, TOP_OFENSORES, planilha)
+if __name__ == "__main__":
+    path = selecionar_arquivo()
+    lista1, lista2, planilha = leitor_info(path)
+    Relatorio_word(lista1, lista2, TOP_OFENSORES, planilha)
